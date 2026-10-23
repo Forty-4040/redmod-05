@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "com.redmod.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"CreeperEntityMixin"
+	],
+	"client": [
+		"ItemRendererMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

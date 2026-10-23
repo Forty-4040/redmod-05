@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		"III",
+		"IKI",
+		"III"
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"K": {
+			"item": "redmod:red_button_item"
+		}
+	},
+	"result": {
+		"item": "redmod:red_button_big_item",
+		"count": 1
+	}
+}

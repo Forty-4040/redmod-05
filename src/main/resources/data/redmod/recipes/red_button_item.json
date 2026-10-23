@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		" W ",
+		"IRI",
+		"IBI"
+	],
+	"key": {
+		"W": {
+			"item": "minecraft:red_wool"
+		},
+		"I": {
+			"item": "minecraft:iron_ingot"
+		},
+		"R": {
+			"item": "minecraft:redstone"
+		},
+		"B": {
+			"item": "minecraft:iron_block"
+		}
+	},
+	"result": {
+		"item": "redmod:red_button_item",
+		"count": 1
+	}
+}
